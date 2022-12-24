@@ -6,7 +6,7 @@ The link to the final hosted webpage is :
 
 The display timer remains set to '00:00:00:000' initially i.e. (HH:MM:SS:MS) and changes according to the button clicked.
 
-https://user-images.githubusercontent.com/53351628/147845287-b1f42591-4a47-4bb2-af11-c72ec74bd53b.jpeg
+
 
 
 FEATURES & FUNCTIONALITY :
